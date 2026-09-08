@@ -166,3 +166,10 @@ Example result:
 ```text
 Predicted Churn: No
 Churn Probability: 4.6%
+
+
+## 👤 Author
+
+**Pritha Ghosh**
+
+GitHub: [Pritha21o](https://github.com/Pritha21o)
