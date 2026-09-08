@@ -161,15 +161,17 @@ Therefore, Random Forest could be useful when the primary business objective is 
 
 The final model was also tested on a sample customer from the test dataset.
 
-Example result:
+**Example result:**
 
 ```text
 Predicted Churn: No
 Churn Probability: 4.6%
+```
 
+---
 
 ## 👤 Author
 
 **Pritha Ghosh**
 
-GitHub: [Pritha21o](https://github.com/Pritha21o)
+[GitHub Profile](https://github.com/Pritha21o)
