@@ -135,8 +135,8 @@ The models were evaluated using:
 
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 |---|---:|---:|---:|---:|---:|
-| Logistic Regression | 80.34% | 65.20% | 55.62% | 60.03% | 84.24% |
-| Random Forest | 76.93% | 55.88% | 62.30% | 58.91% | 82.43% |
+| Logistic Regression | **80.70%** | **65.84%** | 56.68% | **60.92%** | **84.18%** |
+| Random Forest | 76.93% | 55.88% | **62.30%** | 58.91% | 82.43% |
 
 ---
 
@@ -146,10 +146,11 @@ Based on the overall evaluation, **Logistic Regression** was selected as the fin
 
 It achieved:
 
-- **80.34% Accuracy**
-- **65.20% Precision**
-- **60.03% F1-Score**
-- **84.24% ROC-AUC**
+- **Accuracy:** 80.70%
+- **Precision:** 65.84%
+- **Recall:** 56.68%
+- **F1-Score:** 60.92%
+- **ROC-AUC:** 84.18%
 
 Random Forest achieved higher recall (**62.30%**) compared with Logistic Regression (**55.62%**).
 
@@ -165,7 +166,7 @@ The final model was also tested on a sample customer from the test dataset.
 
 ```text
 Predicted Churn: No
-Churn Probability: 4.6%
+Churn Probability: 4.5%
 ```
 
 ---
